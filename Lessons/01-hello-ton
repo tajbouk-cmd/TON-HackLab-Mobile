@@ -1,0 +1,21 @@
+# Lesson 01: Hello TON
+
+## 🎯 Goal
+Verify that your mobile hacking lab is working correctly by running a simple TON script.
+
+## 📱 Requirements
+- Termux installed
+- Python 3.x
+- `toncli` installed via pip
+
+## 🧪 Instructions
+1. Open Termux and navigate to your project folder.
+2. Create a Python script that prints a message and simulates a TON interaction.
+3. Run the script to confirm everything works.
+
+## ✅ Expected Output
+- A printed message like: `Hello TON from Termux!`
+- No errors during execution
+
+## 💡 Tip
+This lesson is just to warm up your environment. If it works, you're ready for deeper testing.
