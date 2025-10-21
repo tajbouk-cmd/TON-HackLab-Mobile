@@ -17,5 +17,5 @@ Verify that your mobile hacking lab is working correctly by running a simple TON
 - A printed message like: `Hello TON from Termux!`
 - No errors during execution
 
-## 💡 Tip
-This lesson is just to warm up your environment. If it works, you're ready for deeper testing.
+## 💻 Solution
+See the code in [`solution.py`](solution.py).
